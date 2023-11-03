@@ -2,7 +2,7 @@
 
 **Authors:** Arneitz, P. and Schnepp, E.
 
-**Journal:** TBA
+**Journal:** Journal of Archaeological Science: Reports (2023)
 
 ## Data description:
 
