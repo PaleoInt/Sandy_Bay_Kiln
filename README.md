@@ -4,6 +4,8 @@
 
 **Journal:** Journal of Archaeological Science: Reports (2023)
 
+https://doi.org/10.1016/j.jasrep.2023.104268
+
 ## Data description:
 
 This repository contains all raw demagnetization and archeointensity data used in the above publication.
